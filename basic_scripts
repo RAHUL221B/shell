@@ -1,0 +1,19 @@
+#! /bin/bash
+#created by :rahul
+#topic :simple bash scripts
+
+echo 
+echo "this is a simple script on basic commands"
+echo
+whoami
+echo
+pwd
+echo
+ls
+echo
+ls -ltl
+echo
+date
+echo
+touch a b c
+echo "end of script"
