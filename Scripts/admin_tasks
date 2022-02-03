@@ -1,0 +1,16 @@
+#! /bin/bash
+#author: rahul
+#Date: 4-2-2022
+
+echo
+top
+echo
+df -h
+echo
+free -m
+echo
+uptime
+echo
+iostat
+
+
