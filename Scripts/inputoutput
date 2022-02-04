@@ -1,0 +1,14 @@
+# /bin/bash
+# This is about input output scripts
+
+echo "you are in the input output script"
+echo
+echo "What is your name"
+read name
+echo 
+echo hello $name
+echo
+echo what is your fav show?
+read show
+echo 
+echo $show is a great show
