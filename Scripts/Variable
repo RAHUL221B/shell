@@ -1,0 +1,16 @@
+#! /bin/bash
+
+p=pwd
+l=ls
+wi=whoami
+d=Date
+c='cal 2018'
+
+echo "Running Variable tasks"
+echo
+$p
+$l
+$wi
+$d
+$c
+echo "End of script"
